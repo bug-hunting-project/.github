@@ -64,3 +64,7 @@
 ## Sequence Diagram
 
 ![image](https://github.com/bug-hunting-project/.github/assets/29292618/68c6388f-5947-49f1-b380-a0b50171913e)
+
+<b> 
+
+본 자료는 2023년도 국가과학기술인력개발원의 지원을 받아 수행된 성과물임
